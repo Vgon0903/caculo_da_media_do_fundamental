@@ -5,13 +5,8 @@ ESCREVA UM ALGORITMO QUE CALCULE A MÉDIA ARITMÉTICA DAS 3 NOTAS DOS ALUNOS DE 
 
 Início
 
-     Enquanto Existem disciplinas? Faça
-          Enquanto Existem alunos? Faça
-		Ler as notas de um aluno da disciplina em questão
-		Calcular a nota final
-		Exibir sua nota
-          Fim Enquanto
-     Fim Enquanto    
+PORTUGOL COMENTARIO FAZER...
+
 
 Fim
 
