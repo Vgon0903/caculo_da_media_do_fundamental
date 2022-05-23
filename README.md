@@ -5,13 +5,19 @@ ESCREVA UM ALGORITMO QUE CALCULE A MÉDIA ARITMÉTICA DAS 3 NOTAS DOS ALUNOS DE 
 
 Início
 
-Enquanto existe RA? Faça
-Enquanto Existem notas? Faça
-	Ler as notas em cada uma das avaliações em questão
-	Calcular a media aritmética 
-	Exibir sua media
-      Exibir se foi aprovado, reprovado ou se está de recuperação
- Fim Enquanto    
+Digite RA
+
+Exibe RA
+
+Digita notas das avaliações
+
+Ler as notas em cada uma das avaliações em questão
+
+	Calcular a média aritmética da nota do aluno
+	
+	Exibir sua média
+	
+      Exibir se foi aprovado, reprovado ou se esta de recuperação  
 
 
 Fim
